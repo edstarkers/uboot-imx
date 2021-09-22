@@ -14,7 +14,7 @@
 
 /dts-v1/;
 
-#include "imx8mn-ea-ucom.dtsi"
+#include "imx8mn.dtsi"
 
 / {
 	model = "Nixer RL256 v1.1";
