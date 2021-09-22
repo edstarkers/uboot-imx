@@ -806,6 +806,7 @@ dtb-$(CONFIG_ARCH_IMX8M) += \
 	imx8mn-ab2.dtb \
 	imx8mq-ea-com-kit_v2.dtb \
 	imx8mm-ea-ucom-kit_v2.dtb \
+	imx8mn-rl256.dtb \
 	imx8mn-ea-ucom-kit_v2.dtb
 
 dtb-$(CONFIG_ARCH_IMXRT) += imxrt1050-evk.dtb
