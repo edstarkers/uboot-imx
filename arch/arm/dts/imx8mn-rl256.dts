@@ -495,3 +495,4 @@
 	pinctrl-0 = <&pinctrl_pwm1>;
 };
 
+#include "imx8mn-ddr4-evk-u-boot.dtsi"
